@@ -1,1 +1,13 @@
-# Studio
+# - ABAS Medical Group hospital web application 
+![Capture](https://user-images.githubusercontent.com/48288299/208687906-a11bf824-51ae-49b6-928e-b026345cdbd1.PNG)
+![Capture1](https://user-images.githubusercontent.com/48288299/208687912-ba840c39-7f2b-400f-869f-865e64e3fd80.jpg)
+![Capture2](https://user-images.githubusercontent.com/48288299/208687915-4e9d4924-a305-44fd-9883-b74376d63b05.PNG)
+![Capture3](https://user-images.githubusercontent.com/48288299/208687918-916f3e04-d63c-4e7e-82c8-2c8a88555de9.PNG)
+![Capture4](https://user-images.githubusercontent.com/48288299/208687922-bd769dc2-7bbb-4dfb-a940-8fe3d05847c6.PNG)
+![Capture5](https://user-images.githubusercontent.com/48288299/208687925-215f5c25-6c15-4a29-a4dd-ecdc99d978b5.PNG)
+![Capture6](https://user-images.githubusercontent.com/48288299/208687930-7485d275-9cf9-4170-ae04-e3e289da6f86.PNG)
+![Capture7](https://user-images.githubusercontent.com/48288299/208687935-4fa56b66-8d52-4508-98f9-e2cc5d8d55c2.PNG)
+![Capture8](https://user-images.githubusercontent.com/48288299/208687936-2a19098f-be20-4d0f-840d-70a8ed419b66.PNG)
+![Capture9](https://user-images.githubusercontent.com/48288299/208687941-e6388e9c-800c-4548-927f-41182db5ece2.PNG)
+![Capture10](https://user-images.githubusercontent.com/48288299/208687943-88d2b1a6-7ef9-4401-b12c-87ef06d01529.PNG)
+![Capture11](https://user-images.githubusercontent.com/48288299/208687946-ac7fd009-2dff-4e7f-9da5-df03ca8af9ce.PNG)
