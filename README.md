@@ -61,4 +61,5 @@
 ![3-category-edit](https://user-images.githubusercontent.com/48288299/213007550-189b2081-02c9-4951-a86a-d30cb71c8ed5.gif)
 ![4-Cashier - Alert](https://user-images.githubusercontent.com/48288299/213007554-b0e18d66-0e37-4779-9660-705e5d5329fc.gif)
 ![5-profile](https://user-images.githubusercontent.com/48288299/213007560-161c0b33-904f-40c6-a4b0-43596540be6e.gif)
-![6-order](https://user-images.githubusercontent.com/48288299/213008367-87d821b0-ba06-4bac-a18e-a310fcd86eac.gif)
+![6-orders](https://user-images.githubusercontent.com/48288299/213009352-bf555d57-7ab9-41fa-9a5d-1c50cb304937.gif)
+
