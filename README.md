@@ -55,3 +55,10 @@
 ![Capture9](https://user-images.githubusercontent.com/48288299/208707665-c8b72e08-34eb-4d4b-aa61-bca8f5190c33.PNG)
 ![Capture10](https://user-images.githubusercontent.com/48288299/208707669-0ca8977b-f9a3-4917-b14b-aaf4820ab82e.PNG)
 
+# - Pizza Order Software
+![1-login](https://user-images.githubusercontent.com/48288299/213007537-6816ce90-ffac-41b4-90a4-4299740a3efe.gif)
+![2- lang](https://user-images.githubusercontent.com/48288299/213007549-62214abc-f8a3-4ce7-8671-0814f3e2bce3.gif)
+![3-category-edit](https://user-images.githubusercontent.com/48288299/213007550-189b2081-02c9-4951-a86a-d30cb71c8ed5.gif)
+![4-Cashier - Alert](https://user-images.githubusercontent.com/48288299/213007554-b0e18d66-0e37-4779-9660-705e5d5329fc.gif)
+![5-profile](https://user-images.githubusercontent.com/48288299/213007560-161c0b33-904f-40c6-a4b0-43596540be6e.gif)
+![6-order](https://user-images.githubusercontent.com/48288299/213007561-5fd058dc-d34a-465f-aad2-a8c682a96b3f.gif)
